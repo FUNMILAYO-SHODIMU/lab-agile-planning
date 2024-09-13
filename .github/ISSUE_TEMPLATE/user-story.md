@@ -14,7 +14,7 @@ assignees: ''
 ### Details and Assumption
 * [get parents email and contacts]
 
-###Acceptance Criteria
+### Acceptance Criteria
 
 ''' gherkin
 Given [more values and impact on students]
