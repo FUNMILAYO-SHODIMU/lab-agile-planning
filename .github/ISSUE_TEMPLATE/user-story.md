@@ -7,17 +7,17 @@ assignees: ''
 
 ---
 
-**As a** [Business Manager]
-**I need** [grow my school]
-**So that** [more students can enroll and retain existing students]
+**As a** [Role]
+**I need** [function]
+**So that** [benefit]
 
 ### Details and Assumption
-* [get parents email and contacts]
+* [document you want to know]
 
 ### Acceptance Criteria
 
 ''' gherkin
-Given [more values and impact on students]
-When [ students and parents are satisfied]
-Then [we retain existing students and attract new students]
+Given [some context]
+When [certain action is taken]
+Then [the outcome of the action is observed]
 '''
